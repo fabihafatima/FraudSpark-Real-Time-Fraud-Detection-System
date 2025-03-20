@@ -1,4 +1,4 @@
-# Project Name
+# FraudSpark
 
 ![Project Logo](data/images/fraudSpark.png)
 
