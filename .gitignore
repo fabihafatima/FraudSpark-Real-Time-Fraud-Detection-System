@@ -1,0 +1,6 @@
+ml_model/trained_model/
+ml_model/testdata.csv/
+ml_model/balanced_testdata_v1_20241206-181429.csv/
+ml_model/balanced_testdata_v1_20241206-181429.csv/
+ml_model/balanced_testdata_v1_20241206-174629.csv
+ml_model/balanced_testdata_v1_20241206-174503.csv
